@@ -1,0 +1,6 @@
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/bin/Debug/Lab3.exe
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/bin/Debug/Lab3.pdb
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/obj/Debug/Lab3.csprojAssemblyReference.cache
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/obj/Debug/Lab3.csproj.CoreCompileInputs.cache
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/obj/Debug/Lab3.exe
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab3/Lab3/obj/Debug/Lab3.pdb

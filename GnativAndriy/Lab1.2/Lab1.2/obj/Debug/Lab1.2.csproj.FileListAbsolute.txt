@@ -1,0 +1,6 @@
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/bin/Debug/Lab1.2.exe
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/bin/Debug/Lab1.2.pdb
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/obj/Debug/Lab1.2.csprojAssemblyReference.cache
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/obj/Debug/Lab1.2.csproj.CoreCompileInputs.cache
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/obj/Debug/Lab1.2.exe
+/Users/oleksiylopatskiy/code/GnativAndriy/Lab1.2/Lab1.2/obj/Debug/Lab1.2.pdb
